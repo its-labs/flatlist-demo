@@ -1,0 +1,18 @@
+{
+
+    "txtToday": "Today",
+    "txtTomorrow": "Tomorrow",
+    "txtOtherDate": "Other date",
+    "chooseLanguage": "Choose Language",
+    "txtWifi": "Wifi",
+    "txtMonitor": "Monitor",
+    "txtUsers": "Users",
+    "txtCreditCard": "5 Credit/half hour",
+    "txtFacilities": "Facilities",
+    "txtTitle": "Splash",
+    "txtDescription": "First Floor 4 Seats",
+    "txtSelectSartTime": "Select Start Time",
+    "txtSelectDuration": "Select Duration",
+    "btnSelectDate":"Select Date"
+
+}

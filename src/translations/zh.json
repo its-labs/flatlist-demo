@@ -1,0 +1,17 @@
+{
+ 
+    "txtToday": "今天",
+    "txtTomorrow": "明天",
+    "txtOtherDate": "其他日期",
+    "chooseLanguage": "選擇語言",
+    "txtWifi": "無線上網",
+    "txtMonitor": "監控",
+    "txtUsers": "用戶",
+    "txtCreditCard": "5 學分/半小時",
+    "txtFacilities": "設備",
+    "txtTitle": "濺",
+    "txtDescription": "樓 4 個座位",
+    "txtSelectSartTime": "選擇開始時間",
+    "txtSelectDuration": "選擇持續時間",
+    "btnSelectDate":"選擇日期"
+}
